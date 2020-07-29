@@ -3,9 +3,9 @@
 
 ## requirements
 
-  > install NodeJs and NPM in your pc  [Nodejs] (https://nodejs.org/en/download/)
+  > install NodeJs and NPM in your pc  [Nodejs](https://nodejs.org/en/download/)
   #
-  > Npm getting strated command [npm_staterd] (https://docs.npmjs.com/getting-started/)
+  > Npm getting strated command [npm_staterd](https://docs.npmjs.com/getting-started/)
 
 # build project
 > go into the project folder and run the command to install dependencies
