@@ -61,6 +61,7 @@ router.post('/login', async (req, res) => {
     }
 
     //Password is correct
+    //Test for Git Security Project 
     const validPass = await bcrypt.compare(req.body.password, user.password);
     if (!validPass) {
         return res.status(400).send('Invalid password')
