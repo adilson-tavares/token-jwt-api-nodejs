@@ -3,15 +3,26 @@
 
 ## requirements
 
-  > install nodejs in your pc 
+  > install NodeJs and NPM in your pc  [Nodejs] (https://nodejs.org/en/download/)
   #
-  > install npm 
+  > Npm getting strated command [npm_staterd] (https://docs.npmjs.com/getting-started/)
 
 # build project
+> go into the project folder and run the command to install dependencies
+
+#### comand
 > npm install 
 
 # run project
-  npm start
+> on still the project folder
+> npm start
 
 #### note 
 > This project is run on port 3001
+> configure your database on mongoatlas
+
+## Testing project
+
+For testing the project, you can be used [Insominia](https://insomnia.rest/download/) software  or [Postman](https://www.postman.com/),
+#
+for example on post man :
